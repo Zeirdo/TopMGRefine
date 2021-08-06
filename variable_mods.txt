@@ -1,0 +1,5 @@
+Lys->Cys substitution,-25.085779,K,any,1132
+
+Thr->Ala substitution,-30.010565,T,any,659
+
+Val->Gly substitution,-42.046950,V,any,672
